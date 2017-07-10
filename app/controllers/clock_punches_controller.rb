@@ -1,0 +1,2 @@
+class ClockPunchesController < ApplicationController
+end
