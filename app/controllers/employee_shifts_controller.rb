@@ -1,0 +1,2 @@
+class EmployeeShiftsController < ApplicationController
+end

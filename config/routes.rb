@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :employee_shifts
   resources :clock_punches
   resources :shifts
   resources :employees
